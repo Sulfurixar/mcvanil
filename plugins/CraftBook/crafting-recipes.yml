@@ -39,3 +39,10 @@ crafting-recipes:
             'minecraft:bowl|Mortar & Pestle ': 1
         results:
             'minecraft:yellow_dye|Sunflower Petals ': 1
+    rose_hip:
+        type: Shapeless
+        ingredients:
+            'minecraft:rose_bush ': 1
+            'minecraft:shears ': 1
+        results:
+            'minecraft:sweet_berries|Rose Hip ': 1
