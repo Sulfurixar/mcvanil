@@ -1,0 +1,1 @@
+give @s yellow_dye{CustomModelData:3,display:{Name:'[{"text":"Sunflower Petals","italic":false}]'}} 1
