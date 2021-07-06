@@ -1,0 +1,1 @@
+give @s sweet_berries{CustomModelData:3,display:{Name:'[{"text":"Strawberries","italic":false}]'}} 1
