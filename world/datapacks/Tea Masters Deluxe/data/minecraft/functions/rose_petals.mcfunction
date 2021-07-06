@@ -1,0 +1,1 @@
+give @s red_dye{CustomModelData:1,display:{Name:'[{"text":"Rose Petals","italic":false}]'}} 1

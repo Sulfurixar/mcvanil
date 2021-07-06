@@ -1,0 +1,20 @@
+# CraftBook Custom Recipes. CraftBook Version: 3.10.4-SNAPSHOT;4720-1ecdd88
+# For more information on setting up custom recipes, see the wiki:
+# http://wiki.sk89q.com/wiki/CraftBook/Custom_crafting
+
+
+crafting-recipes:
+    mortar_pestle:
+        type: Shapeless
+        ingredients:
+            'minecraft:stick ': 1
+            'minecraft:bowl ': 1
+        results:
+            'minecraft:bowl|Mortar & Pestle ': 1
+    rose_petals:
+        type: Shapeless
+        ingredients:
+            'minecraft:bowl|Mortar & Pestle ': 1
+            'minecraft:rose_bush ': 1
+        results:
+            'minecraft:red_dye|Rose Petals ': 1

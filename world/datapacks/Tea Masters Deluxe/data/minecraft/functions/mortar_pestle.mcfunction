@@ -1,0 +1,1 @@
+give @s bowl{CustomModelData:1,display:{Name:'[{"text":"Mortar & Pestle","italic":false}]'}} 1
