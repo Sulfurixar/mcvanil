@@ -1,0 +1,1 @@
+give @s sweet_berries{CustomModelData:5,display:{Name:'[{"text":"Rose Hip","italic":false}]'}} 1
