@@ -1,0 +1,1 @@
+give @s light_blue_dye{CustomModelData:1,display:{Name:'[{"text":"Cornflower Petals","italic":false}]'}} 1
