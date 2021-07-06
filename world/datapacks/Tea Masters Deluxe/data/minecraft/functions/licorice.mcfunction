@@ -1,0 +1,1 @@
+give @s cocoa_beans{CustomModelData:2,display:{Name:'[{"text":"Licorice","italic":false}]'}} 1
