@@ -18,3 +18,10 @@ crafting-recipes:
             'minecraft:rose_bush ': 1
         results:
             'minecraft:red_dye|Rose Petals ': 1
+    cocoa_husks:
+        type: Shapeless
+        ingredients:
+            'minecraft:cocoa_beans ': 1
+            'minecraft:bowl|Mortar & Pestle ': 1
+        results:
+            'minecraft:cocoa_beans|Cocoa Husks ': 1
