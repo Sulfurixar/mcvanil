@@ -1,0 +1,14 @@
+{
+    "craftbook.bettersponge.description": "Verbessert die Wasserentfernungsfähigkeit von Schwämmen",
+    "craftbook.bounceblocks.invalid-velocity": "Du musst eine gültige Geschwindigkeit in der 3. Zeile eingeben!",
+    "craftbook.chairs.description": "Erlaubt das Sitzen auf Treppenblöcken.",
+    "craftbook.chairs.block-in-use": "Dieser Stuhl ist in Benutzung!",
+    "craftbook.chairs.floating": "Dieser Stuhl schwebt!",
+    "craftbook.chairs.obstructed": "Dieser Stuhl ist blockiert!",
+    "craftbook.chairs.too-far-away": "Dieser Stuhl ist zu weit entfernt!",
+    "craftbook.headdrops.description": "Ermöglicht das Sammeln von Spieler- und Mobköpfen",
+    "craftbook.headdrops.click-message.player": "Der abgetrennte Kopf von {0}...",
+    "craftbook.jackolantern.description": "Ermöglicht das Ein- und Ausschalten von Kürbislaternen mit Redstone",
+    "craftbook.signcopier.copy": "Du hast das Schild kopiert!",
+    "craftbook.signcopier.paste": "Du hast das Schild eingefügt!"
+}

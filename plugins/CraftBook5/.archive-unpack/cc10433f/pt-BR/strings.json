@@ -1,0 +1,9 @@
+{
+    "craftbook.bounceblocks.invalid-velocity": "Você precisa inserir uma velocidade válida na terceira linha!",
+    "craftbook.chairs.block-in-use": "Esta cadeira está em uso!",
+    "craftbook.chairs.floating": "Essa cadeira está flutuando!",
+    "craftbook.chairs.obstructed": "Essa cadeira está obstruída!",
+    "craftbook.chairs.too-far-away": "Essa cadeira está muito longe!",
+    "craftbook.headdrops.description": "Permite que a cabeça de jogadores e criaturas sejam coletadas",
+    "craftbook.variables.list.copy": "Clique para copiar"
+}

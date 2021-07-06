@@ -1,0 +1,89 @@
+{
+    "craftbook.ammeter.line": "Ammeter: {0} {1}A",
+    "craftbook.ammeter.description": "Adds a tool that outputs the power level at the clicked block",
+
+    "craftbook.betterphysics.description": "Enhances physics of aspects of the game, such as allowing ladders to fall",
+
+    "craftbook.betterplants.description":"Enhances plants in the game, such as allowing ferns to be farmed",
+
+    "craftbook.bettersponge.description": "Enhances the water removal capabilities of sponges",
+
+    "craftbook.bounceblocks.create": "BounceBlock Created!",
+    "craftbook.bounceblocks.invalid-velocity": "You need to enter a valid velocity on the 3rd line!",
+
+    "craftbook.chairs.description": "Allows sitting on stair blocks.",
+    "craftbook.chairs.block-in-use": "This chair is in use!",
+    "craftbook.chairs.floating": "That chair is floating!",
+    "craftbook.chairs.obstructed": "That chair is obstructed!",
+    "craftbook.chairs.too-far-away": "That chair is too far away!",
+
+    "craftbook.headdrops.description": "Allows the head of players and mobs to be collected",
+    "craftbook.headdrops.click-message.player": "The dismembered head of {0}...",
+    "craftbook.headdrops.click-message.mob": "The dismembered head of a {0}...",
+    "craftbook.headdrops.give": "Gave a {0} head to {1}",
+    "craftbook.headdrops.give.failed": "Failed to give {0} the head of a {1}",
+
+    "craftbook.jackolantern.description": "Allows Jack O Lanterns to be turned on and off with redstone",
+
+    "craftbook.lightstone.line": "LightStone: {0} {1}L",
+    "craftbook.lightstone.description": "Adds a tool that outputs the light level at the clicked block",
+
+    "craftbook.marquee.description": "Lets players view Variable values by right clicking a sign",
+
+    "craftbook.paintingswitcher.now-editing": "You are now editing this painting!",
+    "craftbook.paintingswitcher.no-longer-editing": "You are no longer editing this painting!",
+    "craftbook.paintingswitcher.too-far-away": "You are too far away from that painting!",
+    "craftbook.paintingswitcher.in-use": "This painting is already in use by {0}!",
+
+    "craftbook.readablebookshelf.failed-to-read": "Failed to read books file",
+    "craftbook.readablebookshelf.empty": "Books file is empty",
+    "craftbook.readablebookshelf.read": "You pick up a book...",
+    "craftbook.readablebookshelf.description": "Reads a line from a file when a player right clicks a bookshelf",
+
+    "craftbook.redstonefire.description": "Allows fire from netherrack or soul soil to be turned on and off with redstone",
+
+    "craftbook.redstoneglowstone.description": "Allows toggling glowstone on and off with redstone",
+
+    "craftbook.redstonejukebox.description": "Allows a Jukebox to be turned on and off with redstone",
+
+    "craftbook.signcopier.description": "Adds a tool for copying and pasting signs, as well as editing them.",
+    "craftbook.signcopier.copy": "You have copied the sign!",
+    "craftbook.signcopier.paste": "You have pasted the sign!",
+    "craftbook.signcopier.denied": "You're not allowed to paste signs here!",
+    "craftbook.signcopier.no-copy": "You haven't copied a sign...",
+    "craftbook.signcopier.invalid-line": "Line out of bounds. Must be between 1 and 4.",
+    "craftbook.signcopier.edited": "Line {0} is now set to \"{1}\".",
+    "craftbook.signcopier.cleared": "Cleared the copied sign.",
+
+    "craftbook.snow.description": "Enhances snow, allowing it to build up and realistically spread",
+
+    "craftbook.variables.unknown-variable": "Unknown variable: \"{0}\"",
+    "craftbook.variables.already-exists": "Variable already exists: \"{0}\"",
+    "craftbook.variables.invalid-key": "Invalid variable key: \"{0}\"",
+    "craftbook.variables.invalid-namespace": "Invalid variable namespace: \"{0}\"",
+    "craftbook.variables.invalid-value": "Invalid variable value: \"{0}\"",
+    "craftbook.variables.get": "Variable {0} is: \"{1}\"",
+    "craftbook.variables.set": "Variable {0} is now set to: \"{1}\"",
+    "craftbook.variables.remove": "Variable {0} has been removed",
+    "craftbook.variables.list.copy": "Click to Copy",
+    "craftbook.variables.list.all-and-namespace": "You can't provide a namespace when using -a",
+    "craftbook.variables.not-numeric": "Variable {0} not of type 'number'",
+    "craftbook.variables.not-boolean": "Variable {0} not of type 'boolean'",
+    "craftbook.variables.no-permission": "You don't have permission to use the variable \"{0}\"",
+    "craftbook.variables.failed-to-load": "Failed to load variables file",
+    "craftbook.variables.description": "Allows creation of variables, that can represent other text",
+
+    "craftbook.mechanisms.missing-dependency": "Dependency not satisfied: {0}",
+    "craftbook.mechanisms.already-enabled": "Mechanic {0} is already enabled",
+    "craftbook.mechanisms.not-enabled": "Mechanic {0} is not enabled",
+    "craftbook.mechanisms.enable-success": "Enabled mechanic {0}",
+    "craftbook.mechanisms.enable-failed": "An error occurred while enabling {0}: {1}",
+    "craftbook.mechanisms.disable-success": "Disabled mechanic {0}",
+    "craftbook.mechanisms.click-to-enable": "Click to enable",
+    "craftbook.mechanisms.click-to-disable": "Click to disable",
+
+    "craftbook.version.version": "CraftBook version {0}",
+
+    "craftbook.command.player-required": "A player must be provided.",
+    "craftbook.command.unknown-player": "Unknown player!"
+}
