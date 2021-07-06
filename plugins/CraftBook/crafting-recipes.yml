@@ -25,3 +25,10 @@ crafting-recipes:
             'minecraft:bowl|Mortar & Pestle ': 1
         results:
             'minecraft:cocoa_beans|Cocoa Husks ': 1
+    cornflower_petals:
+        type: Shapeless
+        ingredients:
+            'minecraft:cornflower ': 1
+            'minecraft:bowl|Mortar & Pestle ': 1
+        results:
+            'minecraft:light_blue_dye|Cornflower Petals ': 1
