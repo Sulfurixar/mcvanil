@@ -1,0 +1,1 @@
+give @s melon_slice{CustomModelData:1,display:{Name:'[{"text":"Lemon","italic":false}]'}} 1
