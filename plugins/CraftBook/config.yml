@@ -14,7 +14,6 @@ enabled-mechanics:
 - Chairs
 - CommandItems
 - CommandSigns
-- CustomCrafting
 - Gate
 - Jukebox
 - ICs
@@ -40,6 +39,7 @@ disabled-mechanics:
 - Bookcase
 - BounceBlocks
 - Cauldron
+- CustomCrafting
 - ChunkAnchor
 - CookingPot
 - CustomDrops
