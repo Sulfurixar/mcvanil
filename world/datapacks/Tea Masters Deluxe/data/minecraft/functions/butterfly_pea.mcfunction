@@ -1,0 +1,1 @@
+give @s light_blue_dye{CustomModelData:2,display:{Name:'[{"text":"Butterfly Pea","italic":false}]'}} 1
