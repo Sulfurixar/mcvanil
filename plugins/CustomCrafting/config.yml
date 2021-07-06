@@ -1,0 +1,55 @@
+# Config for CustomCrafting v1.6.6.0
+# -
+# PlaceholderAPI:
+# Identifier: customcrafting
+# Placeholders:
+#   - %customcrafting_crafts%       > The total custom recipes the player has crafted
+#   - %customcrafting_recipes_[option]%
+#       - %customcrafting_recipes_vanilla%        > The total vanilla recipes that are loaded
+#       - %customcrafting_recipes_custom%         > The total custom recipes that are loaded
+#       - %customcrafting_recipes_available%      > The amount of custom recipes that the player has permission to use
+#   - %customcrafting_recipe_[option]_[namespaced_key]%
+#       - %customcrafting_recipe_type_[namespaced_key]%         > The type of the recipe
+#       - %customcrafting_recipe_crafts_[namespaced_key]%       > How often the player has crafted the recipe
+#       - %customcrafting_recipe_advanced_[namespaced_key]%     > If the recipe is a advanced crafting table recipe
+#       - %customcrafting_recipe_permission_[namespaced_key]%   > If the recipe requires a permission
+#       - %customcrafting_recipe_available_[namespaced_key]%    > If the recipe is available for the player
+
+debug: false
+language: en_US
+creator:
+  reset_after_save: true
+commands:
+  alias:
+  - cc
+local_storage:
+  load: true
+  before_database: true
+  override_data: false
+database:
+  enabled: false
+  type: MYSQL
+  host: localhost
+  port: 3306
+  schema: mc_plugins
+  username: minecraft
+  password: ''
+crafting_table:
+  enable: true
+  reset: true
+recipe_book:
+  reset: true
+custom_items:
+  update: true
+recipes:
+  limited: true
+  brewing: false
+  lockdown: false
+  pretty_printing: true
+  disabled_recipes: []
+data:
+  bukkit_version: 2724
+  version: 4
+  auto_save:
+    interval: 30
+    message: true
