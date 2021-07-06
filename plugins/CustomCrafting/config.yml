@@ -46,7 +46,11 @@ recipes:
   brewing: false
   lockdown: false
   pretty_printing: true
-  disabled_recipes: []
+  disabled_recipes:
+  - customcrafting:customcrafting/advanced_crafting_table
+  - customcrafting:recipe_book
+  - customcrafting:advanced_crafting_table
+  - customcrafting:customcrafting/recipe_book
 data:
   bukkit_version: 2724
   version: 4
