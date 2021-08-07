@@ -15,7 +15,7 @@
 					"name": "minecraft:apple",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Apricot\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Apricot\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -32,7 +32,7 @@
 					"name": "minecraft:bowl",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Mortar & Pestle\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Mortar & Pestle\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -49,7 +49,7 @@
 					"name": "minecraft:apple",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Orange\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Orange\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -66,7 +66,7 @@
 					"name": "minecraft:green_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Peppermint Leaves\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Peppermint Leaves\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -83,7 +83,7 @@
 					"name": "minecraft:sweet_berries",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Raspberries\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Raspberries\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -100,7 +100,7 @@
 					"name": "minecraft:wheat",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rice Flour\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rice Flour\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -117,7 +117,7 @@
 					"name": "minecraft:brown_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rooibos\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rooibos\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -134,7 +134,7 @@
 					"name": "minecraft:sweet_berries",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:5,display:{Name:'[{\"text\":\"Rose Hip\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:5,display:{Name:'[{\"text\":\"Rose Hip\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -151,7 +151,7 @@
 					"name": "minecraft:red_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rose Petals\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Rose Petals\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -168,7 +168,7 @@
 					"name": "minecraft:sweet_berries",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:3,display:{Name:'[{\"text\":\"Strawberries\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:3,display:{Name:'[{\"text\":\"Strawberries\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -185,7 +185,7 @@
 					"name": "minecraft:yellow_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:3,display:{Name:'[{\"text\":\"Sunflower Petals\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:3,display:{Name:'[{\"text\":\"Sunflower Petals\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -202,7 +202,7 @@
 					"name": "minecraft:sweet_berries",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Blueberries\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Blueberries\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -219,7 +219,7 @@
 					"name": "minecraft:light_blue_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Butterfly Pea\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Butterfly Pea\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -236,7 +236,7 @@
 					"name": "minecraft:cocoa_beans",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Cocoa Husks\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Cocoa Husks\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -253,7 +253,7 @@
 					"name": "minecraft:light_blue_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Cornflower Petals\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Cornflower Petals\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -270,7 +270,7 @@
 					"name": "minecraft:sweet_berries",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:4,display:{Name:'[{\"text\":\"Elderberries\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:4,display:{Name:'[{\"text\":\"Elderberries\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -287,7 +287,7 @@
 					"name": "minecraft:green_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Green Rooibos\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Green Rooibos\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -304,7 +304,7 @@
 					"name": "minecraft:yellow_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Honeybush\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Honeybush\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -321,7 +321,7 @@
 					"name": "minecraft:melon_slice",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Lemon\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Lemon\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -338,7 +338,7 @@
 					"name": "minecraft:cocoa_beans",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Licorice\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:2,display:{Name:'[{\"text\":\"Licorice\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
@@ -355,7 +355,7 @@
 					"name": "minecraft:yellow_dye",
 					"functions": [{
 							"function": "set_nbt",
-							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Marigold\",\"italic\":false}]'}}"
+							"tag": "{CustomModelData:1,display:{Name:'[{\"text\":\"Marigold\",\"italic\":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}}"
 						},
 						{
 							"function": "set_count",
