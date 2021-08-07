@@ -107,26 +107,31 @@ customItems:
     matchAny: false
     material: 'sweet_berries'
     name: 'Blueberries'
+    lore: '&6 '
 
   elderberries:
     matchAny: false
     material: 'sweet_berries'
     name: 'Elderberries'
+    lore: '&6 '
         
   rosehip:
     matchAny: false
     material: 'sweet_berries'
     name: 'Rose Hip'
+    lore: '&6 '
         
   rosepetals:
     matchAny: false
     material: 'red_dye'
     name: 'Rose Petals'
+    lore: '&6 '
         
   rooibos:
     matchAny: false
     material: 'brown_dye'
     name: 'Rooibos'
+    lore: '&6 '
 
 
 # -- Ingredients in the Cauldron --

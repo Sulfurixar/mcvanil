@@ -1,1 +1,1 @@
-give @s green_dye{CustomModelData:1,display:{Name:'[{"text":"Peppermint Leaves","italic":false}]'}} 1
+give @s green_dye{CustomModelData:1,display:{Name:'[{"text":"Peppermint Leaves","italic":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}} 1

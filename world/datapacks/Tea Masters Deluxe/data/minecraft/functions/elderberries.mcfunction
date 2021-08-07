@@ -1,1 +1,1 @@
-give @s sweet_berries{CustomModelData:4,display:{Name:'[{"text":"Elderberries","italic":false}]'}} 1
+give @s sweet_berries{CustomModelData:4,display:{Name:'[{"text":"Elderberries","italic":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}} 1
