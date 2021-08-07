@@ -1,1 +1,1 @@
-give @s apple{CustomModelData:2,display:{Name:'[{"text":"Orange","italic":false}]'}} 1
+give @s apple{CustomModelData:2,display:{Name:'[{"text":"Orange","italic":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}} 1

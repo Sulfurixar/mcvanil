@@ -1,1 +1,1 @@
-give @s cocoa_beans{CustomModelData:1,display:{Name:'[{"text":"Cocoa Husks","italic":false}]'}} 1
+give @s cocoa_beans{CustomModelData:1,display:{Name:'[{"text":"Cocoa Husks","italic":false}]',Lore:['[{"text":" ","italic":false,"color":"gold"}]']}} 1
