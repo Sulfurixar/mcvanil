@@ -8,7 +8,7 @@
       "description" : [ "&7Contains all the recipes available" ],
       "auto" : true,
       "groups" : [ ],
-      "namespaces" : [ "minecraft", "customcrafting" ],
+      "namespaces" : [ "customcrafting", "teadelux" ],
       "recipes" : [ ]
     }, {
       "id" : "customcrafting",
