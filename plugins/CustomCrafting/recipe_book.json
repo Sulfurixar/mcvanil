@@ -8,7 +8,7 @@
       "description" : [ "&7Contains all the recipes available" ],
       "auto" : true,
       "groups" : [ ],
-      "namespaces" : [ ],
+      "namespaces" : [ "minecraft", "customcrafting" ],
       "recipes" : [ ]
     }, {
       "id" : "customcrafting",
