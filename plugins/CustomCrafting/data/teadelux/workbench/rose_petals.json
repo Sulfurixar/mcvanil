@@ -1,0 +1,90 @@
+{
+  "group" : "",
+  "hidden" : false,
+  "priority" : "NORMAL",
+  "exactItemMeta" : true,
+  "conditions" : [ {
+    "id" : "world_name",
+    "option" : "IGNORE",
+    "names" : [ ]
+  }, {
+    "id" : "world_biome",
+    "option" : "IGNORE",
+    "biomes" : [ ]
+  }, {
+    "id" : "world_time",
+    "option" : "IGNORE",
+    "time" : 0
+  }, {
+    "id" : "weather",
+    "option" : "IGNORE",
+    "weather" : "NONE"
+  }, {
+    "id" : "permission",
+    "option" : "IGNORE",
+    "permission" : "customcrafting.craft.%namespace%.%recipe_name%"
+  }, {
+    "id" : "elite_crafting_table",
+    "option" : "IGNORE",
+    "elite_crafting_tables" : [ ]
+  }, {
+    "id" : "advanced_workbench",
+    "option" : "IGNORE"
+  }, {
+    "id" : "player_experience",
+    "option" : "IGNORE",
+    "experience" : 0
+  } ],
+  "shapeless" : true,
+  "result" : {
+    "items" : [ {
+      "custom_amount" : 1,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 2724,
+        "type" : "RED_DYE",
+        "meta" : {
+          "==" : "ItemMeta",
+          "meta-type" : "UNSPECIFIC",
+          "display-name" : "[{\"text\":\"Rose Petals\",\"italic\":false}]",
+          "lore" : [ "[{\"text\":\" \",\"italic\":false,\"color\":\"gold\"}]" ],
+          "custom-model-data" : 1
+        }
+      }
+    } ],
+    "tags" : [ ],
+    "extensions" : [ ]
+  },
+  "ingredients" : {
+    "D" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 2724,
+          "type" : "ROSE_BUSH"
+        }
+      } ],
+      "tags" : [ ]
+    },
+    "E" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 2724,
+          "type" : "BOWL",
+          "meta" : {
+            "==" : "ItemMeta",
+            "meta-type" : "UNSPECIFIC",
+            "display-name" : "[{\"text\":\"Mortar & Pestle\",\"italic\":false}]",
+            "lore" : [ "[{\"text\":\" \",\"italic\":false,\"color\":\"gold\"}]" ],
+            "custom-model-data" : 1
+          }
+        }
+      } ],
+      "tags" : [ ]
+    }
+  },
+  "vanillaRecipe" : false
+}
