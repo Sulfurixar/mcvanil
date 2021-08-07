@@ -1,3 +1,11 @@
+BCauldron:
+  92382d9a-dd65-4d7f-8d60-14aa543d637e:
+    '0':
+      block: 192/71/34
+      state: 3
+      ingredients: BAAABtCA_Q[5AApLr7-gT]DYEPKAqCJrbgT+dTHAAABA=h+ZBAei%e;O_:9u,Ms7nH^OAAhZ7m9j>WXJcAAAMAhtCNFAbv/gc75d9GJz[5)d77AAtLE%!018Uo0an<cAAAEAhtCNFAbv/gc75d9GJz[5)d77AAkcDT20wb7j[z,fO[AAuWAAqI{cAA&yIGA)M0S5AAtL1%90mB5jIEE=cAAAEA
+  7478f228-2cd4-403b-9ce5-f4b08208ecf3: {}
+  18725b6f-902e-4164-8e87-a9cce23f6af9: {}
 Worlds:
   92382d9a-dd65-4d7f-8d60-14aa543d637e: world
   7478f228-2cd4-403b-9ce5-f4b08208ecf3: world_nether
