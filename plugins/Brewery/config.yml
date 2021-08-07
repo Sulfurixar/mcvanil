@@ -104,29 +104,29 @@ version: '3.1'
 customItems:
   # Three Example Items
   blueberries:
-        matchAny: false
-        material: 'sweet_berries'
-        name: 'Blueberries'
+    matchAny: false
+    material: 'sweet_berries'
+    name: 'Blueberries'
 
-    elderberries:
-        matchAny: false
-        material: 'sweet_berries'
-        name: 'Elderberries'
+  elderberries:
+    matchAny: false
+    material: 'sweet_berries'
+    name: 'Elderberries'
         
-    rosehip:
-        matchAny: false
-        material: 'sweet_berries'
-        name: 'Rose Hip'
+  rosehip:
+    matchAny: false
+    material: 'sweet_berries'
+    name: 'Rose Hip'
         
-    rosepetals:
-        matchAny: false
-        material: 'red_dye'
-        name: 'Rose Petals'
+  rosepetals:
+    matchAny: false
+    material: 'red_dye'
+    name: 'Rose Petals'
         
-    rooibos:
-        matchAny: false
-        material: 'brown_dye'
-        name: 'Rooibos'
+  rooibos:
+    matchAny: false
+    material: 'brown_dye'
+    name: 'Rooibos'
 
 
 # -- Ingredients in the Cauldron --
@@ -187,38 +187,38 @@ cauldron:
 #   Highest possible Duration: 1638 sec. Instant Effects dont need any duration specified.
 
 recipes:
-    african_solstice:
-        name: Strange Brew/&cRed Herbal Tea/&cAfrican Solstice
-        ingredients:
-            - rooibos/1
-            - rosehip/3
-            - blueberries/1
-            - elderberries/1
-            - rosepetals/1
-        cookingtime: 5
-        distillruns: 0
-        distilltime: 0
-        wood: 0
-        age: 0
-        # bright orange-red liquor
-        color: DARK_RED
-        difficulty: 10
-        alcohol: 0
-        lore:
-            - + &fA strange red looking brew.
-            - ++ &fA red looking herbal tea.
-            - +++ &fAn &6African Solstice&f. 
-            - "&6Flavor: &btart&6, &bsweet&6, &brich&6."
-            - "&6Aroma: &bfresh berry with a" 
-            - "&bwhisper &bof vanilla&6."
-            - +++ &cFrom the soul of South Africa.
-            - +++ &cThis naturally caffeine-free, 
-            - +++ &cantioxidant-rich rooibos herb is 
-            - +++ &clayered with sweet berries and rose. 
-            - +++ &cA smooth and delicious cup.
-        effects:
-            - SATURATION/1/1-3
-        customModelData: /1/1
+  african_solstice:
+    name: Strange Brew/&cRed Herbal Tea/&cAfrican Solstice
+    ingredients:
+      - rooibos/1
+      - rosehip/3
+      - blueberries/1
+      - elderberries/1
+      - rosepetals/1
+    cookingtime: 5
+    distillruns: 0
+    distilltime: 0
+    wood: 0
+    age: 0
+    # bright orange-red liquor
+    color: DARK_RED
+    difficulty: 10
+    alcohol: 0
+    lore:
+      - + &fA strange red looking brew.
+      - ++ &fA red looking herbal tea.
+      - +++ &fAn &6African Solstice&f. 
+      - "&6Flavor: &btart&6, &bsweet&6, &brich&6."
+      - "&6Aroma: &bfresh berry with a" 
+      - "&bwhisper &bof vanilla&6."
+      - +++ &cFrom the soul of South Africa.
+      - +++ &cThis naturally caffeine-free, 
+      - +++ &cantioxidant-rich rooibos herb is 
+      - +++ &clayered with sweet berries and rose. 
+      - +++ &cA smooth and delicious cup.
+    effects:
+      - SATURATION/1/1-3
+    customModelData: /1/1
 
 # I don't want to add more Recipes to the default config, as they would be public and viewable by users to cheat.
 # It is up to the Serveradmin to change and add Recipes, so players cannot cheat from the default config.
